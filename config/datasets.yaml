@@ -1,0 +1,18 @@
+root: /data/qinyu/  # The root dir of all datasets
+imagenet: ImageNet_1k_2012/val
+cifar10: OOD_Detection/cifar10/
+cifar100: OOD_Detection/cifar100/
+tin: OOD_Detection/tin/val/
+mnist: OOD_Detection/mnist/
+svhn: OOD_Detection/svhn/  # No need for downloading
+texture: OOD_Detection/dtd/images/
+places365: OOD_Detection/Places365/
+places: OOD_Detection/Places/
+lsunc: OOD_Detection/LSUN_C/
+lsunr: OOD_Detection/LSUN_R/
+isun: OOD_Detection/iSUN/
+sun: OOD_Detection/SUN/
+inaturalist: OOD_Detection/iNaturalist/
+openimageo: OOD_Detection/openimage_o/
+imageneto: OOD_Detection/imagenet_o/
+species: OOD_Detection/species_sub/
