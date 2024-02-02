@@ -2,7 +2,7 @@
 
 This repository contains the source code for the paper presented at **ICLR 2024**
 
-**Towards Optimal Feature-Shaping Methods for Out-of-Distribution Detection.** [[Paper]()]
+**Towards Optimal Feature-Shaping Methods for Out-of-Distribution Detection.** [[Paper](https://arxiv.org/abs/2402.00865)]
 
 *Qinyu Zhao, Ming Xu, Kartik Gupta, Akshay Asthana, Liang Zheng, Stephen Gould*
 
